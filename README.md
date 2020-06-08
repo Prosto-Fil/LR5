@@ -24,7 +24,7 @@
 
 10) empty
 
-11)size
+11) size
 
 12) reserve
 
